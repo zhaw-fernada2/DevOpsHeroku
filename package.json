@@ -8,6 +8,6 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "ex press": "^4.16.1"
+    "express": "^4.16.1"
   }
 }
